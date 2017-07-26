@@ -32,7 +32,7 @@ Upload the code contained in this sketch on to your board
 ....
 
 === License
-This project is released under a OpenSource License.
+This project is released under GNU GENERAL PUBLIC LICENSE.
 
 === Contributing
 To contribute to this project please contact GurgenMicro <info.gurgen@gmail.com>
