@@ -1,0 +1,53 @@
+# Automated Irrigation
+
+Author: GurgenMicro
+Email: info.gurgen@gmail.com
+Date: 20/07/2017
+Revision: 0.01
+License: Public Domain
+
+= Project: Soil Moisture Testing with Irrigation Motor
+
+== Step 1: Wiring
+
+1. VCC of the FC-28 to 5V of the Arduino
+2. GND of the FC-28 to GND of the Arduino
+3. A0 of the FC-28 to A0 of the Arduino
+
+== Step 2: Assemble the circuit
+
+Assemble the circuit following the diagram circuit.jpg attached to the sketch
+
+== Step 3: Load the code
+
+Upload the code contained in this sketch on to your board
+
+=== Folder structure
+
+....
+ sketch123                => Arduino sketch folder
+  ├── main.ino            => main Arduino file
+  ├── circuit.jpg         => (optional) an image of the layout
+  └── ReadMe.adoc         => this file
+....
+
+=== License
+This project is released under a OpenSource License.
+
+=== Contributing
+To contribute to this project please contact GurgenMicro <info.gurgen@gmail.com>
+
+=== BOM
+
+|===
+| ID | Part name      | Part number | Quantity
+| S1 | Sensor         | FC-28       | 1       
+| B1 | Bluetooth      | HC-05       | 1        
+| A1 | Arduino Uno    | A000066     | 1        
+|===
+
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
