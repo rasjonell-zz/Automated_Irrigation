@@ -1,6 +1,6 @@
 # Automated Irrigation
 
-Author: GurgenMicro
+Author: Gurgen Hayrapetyan
 
 Email: info.gurgen@gmail.com
 
