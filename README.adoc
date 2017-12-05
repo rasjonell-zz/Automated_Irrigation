@@ -16,7 +16,9 @@ License: Public Domain
 
 == Step 2: Assemble the circuit
 
-Assemble the circuit following the diagram circuit.jpg attached to the sketch
+Assemble the circuit following the diagram
+
+image::/circuit.jpg[Circuit]
 
 == Step 3: Load the code
 
