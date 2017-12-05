@@ -1,9 +1,13 @@
 # Automated Irrigation
 
 Author: GurgenMicro
+
 Email: info.gurgen@gmail.com
+
 Date: 20/07/2017
+
 Revision: 0.01
+
 License: Public Domain
 
 = Project: Soil Moisture Testing with Irrigation Motor
